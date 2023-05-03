@@ -14,7 +14,7 @@ Below, you will find links to the repositories associated with the various compo
 - [**mini-xai**](https://github.com/ligand-discovery/mini-xai): Derive interpretability tiles for promiscuity models.
 
 #### Streamlit Apps
-- [**multi-app**](https://github.com/ligand-discovery/multi-app): Deploy the main results navigation app, alongside the apps listed below, in a multi-tab application.
+- [**interactions app**](https://github.com/ligand-discovery/interactions): explore screening data as a standaline application.
 - [**protein-profile-explorer**](https://github.com/ligand-discovery/protein-profile-explorer): Deploy the protein profile explorer (a.k.a. background checker).
 - [**protein-set-enrichment-analysis**](https://github.com/ligand-discovery/protein-set-enrichment-analysis): Deploy the protein set enrichment analysis.
 - [**fragment-predictor**](https://github.com/ligand-discovery/fragment-predictor): Deploy the fragment predictor based on promiscuity and interactome signature models.
