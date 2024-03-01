@@ -1,6 +1,6 @@
 ## Welcome to Ligand Discovery 🎯
 
-Welcome to the Ligand Discovery Project's main codebase. This project is led by [Georg Winter's lab](https://www.winter-lab.com/) at [CeMM](https://cemm.at) in Vienna. If you want to interact with our tools as a user, we recommend that you visit [https://ligand-discovery.ai](https://ligand-discovery.ai).
+Welcome to the Ligand Discovery Project's main codebase. This project is led by [Georg Winter's lab](https://www.winter-lab.com/) at [CeMM](https://cemm.at) in Vienna.
 
 Below, you will find links to the repositories associated with the various components of the project:
 
