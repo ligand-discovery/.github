@@ -14,7 +14,7 @@ Below, you will find links to the repositories associated with the various compo
 - [**mini-xai**](https://github.com/ligand-discovery/mini-xai): Notebook for the Shapley value analysis. [DOI](https://zenodo.org/records/10838141)
 
 #### Streamlit Apps
-- [**interactions**](https://github.com/ligand-discovery/interactions): explore screening data as a standalone application. [DOI}(https://doi.org/10.5281/zenodo.14935845)
+- [**interactions**](https://github.com/ligand-discovery/interactions): explore screening data as a standalone application. [DOI](https://doi.org/10.5281/zenodo.14935845)
 - [**protein-profile-explorer**](https://github.com/ligand-discovery/protein-profile-explorer): Deploy the protein profile explorer (a.k.a. background checker). [DOI](https://zenodo.org/records/10838104)
 - [**protein-set-enrichment-analysis**](https://github.com/ligand-discovery/protein-set-enrichment-analysis): Deploy the protein set enrichment analysis. [DOI](https://zenodo.org/records/10838110)
 - [**fragment-predictor**](https://github.com/ligand-discovery/fragment-predictor): Deploy the fragment predictor based on promiscuity and interactome signature models. [DOI](https://zenodo.org/records/10838071)
