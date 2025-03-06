@@ -3,12 +3,10 @@
 This project enables exploration of a large scale fragment-based chemoproteomics screening data.
 
 > [!Note]
-> Browse web apps that we deployed in an external cloud server (or)
-> Run apps locally by forking the code from [GitHub](https://github.com/ligand-discovery) (or)
-> Download [Screening](https://github.com/ligand-discovery/landing-page/raw/refs/heads/main/assets/screeningData.tar.xz) data and [Competition](https://github.com/ligand-discovery/landing-page/raw/refs/heads/main/assets/competitionData.tar.xz) data for your own research
+> Browse web apps that we deployed in an external cloud server (or) run apps locally by forking the code from [GitHub](https://github.com/ligand-discovery) (or) download [Screening](https://github.com/ligand-discovery/landing-page/raw/refs/heads/main/assets/screeningData.tar.xz) and [Competition](https://github.com/ligand-discovery/landing-page/raw/refs/heads/main/assets/competitionData.tar.xz) data for your own research.
 
-> [!Tip] 
-> web app will sleep if inactive for few days :sleeping:; if a web app is inactive, a `Restart this Space` button will appear within the web app. Click that button to reload the app.
+> [!Important] 
+> web app will sleep if inactive for few days :sleeping:; if a web app is inactive, a `Restart this Space` button will appear within the web app. Click that button to reload the app :hugs:
 
 ### 1. :dart: **Interactions** 
 
