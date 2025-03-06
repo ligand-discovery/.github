@@ -4,7 +4,9 @@ This project enables exploration of a large scale fragment-based chemoproteomics
 
 > [!Note]
 > Browse web apps that we deployed in an external cloud server (or)
+
 > Run apps locally by forking the code from [GitHub](https://github.com/ligand-discovery) (or)
+
 > Download [Screening](https://github.com/ligand-discovery/landing-page/raw/refs/heads/main/assets/screeningData.tar.xz) data and [Competition](https://github.com/ligand-discovery/landing-page/raw/refs/heads/main/assets/competitionData.tar.xz) data for your own research
 
 > [!Tip] 
