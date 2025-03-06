@@ -68,9 +68,9 @@ Model Training
 
 1. Interactions web app
    
-- Do i have to **clear existing text** to search for a new Protein?
+`Do i have to clear existing text to search for a new Protein?`
 
-      **No**. To change selected protein, there is **no** need to select whole existing term or delete or type new. Just place the mouse cursor in the search box and **just start to type new protein!**; old text is automatically cleared
+**No**. To change selected protein, there is **no** need to select whole existing term or delete or type new. Just place the mouse cursor in the search box and **just start to type new protein!**; old text is automatically cleared
 
 - I search for a gene (example, **DDB1**) but did not find it in Protein search box
 
