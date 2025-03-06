@@ -10,8 +10,8 @@ This project enables exploration of a large scale fragment-based chemoproteomics
 
 1. :dart: [**Interactions**](https://1.ligand-discovery.ai) Explore the interactions between ligands and proteins. This is the main navigator to the chemoproteomics data, containing profiles for 407 fragments. The app also showcases competition assays for a few selected fragments
 
-          |[Web App](https://1.ligand-discovery.ai)|[Code Repo](https://github.com/ligand-discovery/interactions)|
-          |---|---|
+     |[Web App](https://1.ligand-discovery.ai)|[Code Repo](https://github.com/ligand-discovery/interactions)|
+     |---|---|
 
 2. :mag: [**Explore protein sets**](https://2.ligand-discovery.ai) With this tool, you can in put a set of proteins and see how many fragments interact with them according to our chemoproteomics data. We categorize proteins by their promiscuity/specificity levels to easily detect reported effect such as labeling bias
 3. :mountain: [**Protein set enrichment analysis**](https://3.ligand-discovery.ai/) Explore fragment profiles from an enrichment perspective. We capture protein annotations of multiple scopes, from domains and families to molecular functions and cellular localization. We offer global and detailed views for each fragment
