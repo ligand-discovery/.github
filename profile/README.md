@@ -29,7 +29,7 @@ With this tool, you can in put a set of proteins and see how many fragments inte
 
 Explore fragment profiles from an enrichment perspective. We capture protein annotations of multiple scopes, from domains and families to molecular functions and cellular localization. We offer global and detailed views for each fragment
    
-### 4. :robot_face: **Fragment predictor**
+### 4. :chart_with_upwards_trend: **Fragment predictor**
    
    |[Web App](https://4.ligand-discovery.ai)|[Code Repo](https://github.com/ligand-discovery/fragment-predictor)|[DOI](https://zenodo.org/records/10838071)
    |---|---|---|
@@ -51,7 +51,7 @@ Cite: [Offensperger et al., Science (2024)](https://doi.org/10.1126/science.adk5
 
 ---
 
-Below, you will find links to the other repositories associated with the various components of the project:
+Additional code repositories associated with the project:
 
 Data Analysis & Paper Figures
 - [**primary-paper-figures**](https://github.com/ligand-discovery/primary-paper-figures): Executable notebooks to produce the main paper figures. [DOI](https://zenodo.org/records/10838149).
