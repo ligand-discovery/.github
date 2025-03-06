@@ -61,7 +61,8 @@ Model Training
 - [**fragment-embedding**](https://github.com/ligand-discovery/fragment-embedding): Train and predict fully-functionalized fragment descriptors. [DOI](https://zenodo.org/records/10838065)
 - [**mini-automl**](https://github.com/ligand-discovery/mini-automl): Train small machine learning models using TabPFN. Includes scripts for promiscuity models and interactome signature models. [DOI](https://zenodo.org/records/10838095)
 - [**mini-xai**](https://github.com/ligand-discovery/mini-xai): Notebook for the Shapley value analysis. [DOI](https://zenodo.org/records/10838141)
-- 
+
+---
 
 #### FAQ for web apps
 
@@ -69,15 +70,15 @@ Model Training
    
 - Do i have to **clear existing text** to search for a new Protein?
 
-**No**. To change selected protein, there is **no** need to select whole existing term or delete or type new. Just place the mouse cursor in the search box and **just start to type new protein!**; old text is automatically cleared
+      **No**. To change selected protein, there is **no** need to select whole existing term or delete or type new. Just place the mouse cursor in the search box and **just start to type new protein!**; old text is automatically cleared
 
 - I search for a gene (example, **DDB1**) but did not find it in Protein search box
 
-Names like **caspase** or **ddb1** appear many times in description of proteins, therefore search engine is not able to pick the correct one. Type specific input such as **DNA damage-binding protein 1** or **DDB1 DNA dama..** to find **DDB1**. Search with **UniProt Accession** (Q16531 for DDB1) **is better!**
+      Names like **caspase** or **ddb1** appear many times in description of proteins, therefore search engine is not able to pick the correct one. Type specific input such as **DNA damage-binding protein 1** or **DDB1 DNA dama..** to find **DDB1**. Search with **UniProt Accession** (Q16531 for DDB1) **is better!**
 
 - I am interested in a **specific Fragment** but it is not displayed in the Gen1 search box
 
-Gen1 Fragment selection menu is dynamically updated based on the selected Protein **and** threshold filters applied. If you are interested in a specific Gen1 Fragment, then clear all filters, i.e., select **'no filter'** option for _P_ values, adjusted _P_ alues and filterSet  (fS) **and/or** select a promiscuous Protein such as **TOMM22**
+      Gen1 Fragment selection menu is dynamically updated based on the selected Protein **and** threshold filters applied. If you are interested in a specific Gen1 Fragment, then clear all filters, i.e., select **'no filter'** option for _P_ values, adjusted _P_ alues and filterSet  (fS) **and/or** select a promiscuous Protein such as **TOMM22**
 
 - Changing the threhold for _P_ values, adjusted _P_ values and filterSet (fS) does not **change the plot**
 
