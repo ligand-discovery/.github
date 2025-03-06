@@ -110,35 +110,35 @@ Please only choose one of the options, i.e. input proteins manually, or select a
 
 1. We built two types of Promiscuity models. Three Type 1 (Global) and nine Type 2 (Specific) models 
 2. We built 10 Ontology models. 
-3. Area Under Receiver Operating Characteristic (AUROC) of > 0.75 is considered a :blue[good model]
+3. Area Under Receiver Operating Characteristic (AUROC) of > 0.75 is considered a good model :thumbsup:
 
 |Global | num. Proteins | AUROC
 |---|---|---|
-Prom-0 | 100+ | :blue[0.837]
-Prom-1 | 200+ | :blue[0.800]
-Prom-2 | 300+ | :orange[0.713]
+Prom-0 | 100+ | 0.837 :thumbsup:
+Prom-1 | 200+ | 0.800 :thumbsup:
+Prom-2 | 300+ | 0.713
 
 |Specific | num. Proteins | num. Fragments | AUROC
 |---|---|---|---|
-Prom-0-0|5+| < 4 | :blue[0.818]
-Prom-0-1|10+| 4 -> 40 | :blue[0.809]
-Prom-0-2|50+| > 40 | :blue[0.857]
-Prom-1-0|10+| < 4 | :blue[0.771]
-Prom-1-1|15+| 4 -> 40 | :blue[0.855]
-Prom-1-2|100+| > 40 | :blue[0.858]
-Prom-2-0|50+| < 4 | :orange[0.771]
-Prom-2-1|100+| 4 -> 40  | :orange[0.743]
-Prom-2-2|200+| > 40 | :blue[0.814]
+Prom-0-0|5+| < 4 | 0.818 :thumbsup:
+Prom-0-1|10+| 4 -> 40 | 0.809 :thumbsup:
+Prom-0-2|50+| > 40 | 0.857 :thumbsup:
+Prom-1-0|10+| < 4 | 0.771 
+Prom-1-1|15+| 4 -> 40 | 0.855 :thumbsup:
+Prom-1-2|100+| > 40 | 0.858 :thumbsup:
+Prom-2-0|50+| < 4 | 0.771 
+Prom-2-1|100+| 4 -> 40  | 0.743
+Prom-2-2|200+| > 40 | 0.814 :thumbsup:
 
 Model name | Ontology | AUROC
 |---|---|---|
-Sign-0 | Endoplasmic reticulum | :blue[0.872]
-Sign-1 | RNA binding | :orange[0.727]
-Sign-2 | Lysosome | :blue[0.938]
-Sign-3 | Proteasome complex | :orange[0.616]
-Sign-4 | Mitochondria | :orange[0.519]
-Sign-5 | Nucleous | :orange[0.702]
-Sign-6 | Transmembrane transporter | :blue[0.756]
-Sign-7 | Microtubule | :orange[0.557]
-Sign-8 | Organic acid binding | :orange[0.706]
-Sign-9 | Envelope | :blue[0.806]
+Sign-0 | Endoplasmic reticulum | 0.872 :thumbsup:
+Sign-1 | RNA binding | 0.727
+Sign-2 | Lysosome | 0.938 :thumbsup:
+Sign-3 | Proteasome complex | 0.616
+Sign-4 | Mitochondria | 0.519
+Sign-5 | Nucleous | 0.702
+Sign-6 | Transmembrane transporter | 0.756
+Sign-7 | Microtubule | 0.557
+Sign-8 | Organic acid binding | 0.706
+Sign-9 | Envelope | 0.806 :thumbsup:
