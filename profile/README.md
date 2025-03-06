@@ -9,36 +9,47 @@ This project enables exploration of a large scale fragment-based chemoproteomics
 :warning: web app will sleep if inactive for few days; if web app is inactive, a `Restart this Space` button will appear within the web app. Click that button to reload the app.
 
 ### 1. :dart: **Interactions** 
+
+   |[Web App](https://1.ligand-discovery.ai)|[Code Repo](https://github.com/ligand-discovery/interactions)|[DOI](https://doi.org/10.5281/zenodo.14935845)
+   |---|---|---|
+
 Explore the interactions between ligands and proteins. This is the main navigator to the chemoproteomics data, containing profiles for 407 fragments. The app also showcases competition assays for a few selected fragments
 
-     |[Web App](https://1.ligand-discovery.ai)|[Code Repo](https://github.com/ligand-discovery/interactions)|[DOI](https://doi.org/10.5281/zenodo.14935845)
-     |---|---|---|
-
 ### 2. :mag: **Explore protein sets**
+   
+   |[Web App](https://2.ligand-discovery.ai)|[Code Repo](https://github.com/ligand-discovery/protein-profile-explorer)|[DOI](https://zenodo.org/records/10838104)
+   |---|---|---|
+
 With this tool, you can in put a set of proteins and see how many fragments interact with them according to our chemoproteomics data. We categorize proteins by their promiscuity/specificity levels to easily detect reported effect such as labeling bias
    
-     |[Web App](https://2.ligand-discovery.ai)|[Code Repo](https://github.com/ligand-discovery/protein-profile-explorer)|[DOI](https://zenodo.org/records/10838104)
-     |---|---|---|
-   
-5. :mountain: **Protein set enrichment analysis**: Explore fragment profiles from an enrichment perspective. We capture protein annotations of multiple scopes, from domains and families to molecular functions and cellular localization. We offer global and detailed views for each fragment
+### 3. :mountain: **Protein set enrichment analysis**
 
-     |[Web App](https://3.ligand-discovery.ai)|[Code Repo](https://github.com/ligand-discovery/protein-set-enrichment-analysis)|[DOI](https://zenodo.org/records/10838110)
-     |---|---|---|
-   
-6. :robot_face: **Fragment predictor**: Predict whether your fully-functionalized fragment of interest is likely to be promiscuous or associated with a specific interactome signature. We have predefined 10 interactome signatures capturing high-level biological processes that emerged from our chemoproteomics data
-   
-     |[Web App](https://4.ligand-discovery.ai)|[Code Repo](https://github.com/ligand-discovery/fragment-predictor)|[DOI](https://zenodo.org/records/10838071)
-     |---|---|---|
-   
-7. :rocket: **On-the-fly modeling**: Build a machine learning model on the fly to predict potential interactions between your fully-functionalized fragments and proteins of interest. Sets of proteins are accepted and organized in coherent subsets to maximize the chance of obtaining a good model
+   |[Web App](https://3.ligand-discovery.ai)|[Code Repo](https://github.com/ligand-discovery/protein-set-enrichment-analysis)|[DOI](https://zenodo.org/records/10838110)
+   |---|---|---|
 
-     |[Web App](https://5.ligand-discovery.ai)|[Code Repo](https://github.com/ligand-discovery/on-the-fly-modeling)|[DOI](https://zenodo.org/records/10838098)
-     |---|---|---|
+Explore fragment profiles from an enrichment perspective. We capture protein annotations of multiple scopes, from domains and families to molecular functions and cellular localization. We offer global and detailed views for each fragment
+   
+### 4. :robot_face: **Fragment predictor**
+   
+   |[Web App](https://4.ligand-discovery.ai)|[Code Repo](https://github.com/ligand-discovery/fragment-predictor)|[DOI](https://zenodo.org/records/10838071)
+   |---|---|---|
 
+Predict whether your fully-functionalized fragment of interest is likely to be promiscuous or associated with a specific interactome signature. We have predefined 10 interactome signatures capturing high-level biological processes that emerged from our chemoproteomics data
+   
+### 5. :rocket: **On-the-fly modeling**
+
+   |[Web App](https://5.ligand-discovery.ai)|[Code Repo](https://github.com/ligand-discovery/on-the-fly-modeling)|[DOI](https://zenodo.org/records/10838098)
+   |---|---|---|
+
+Build a machine learning model on the fly to predict potential interactions between your fully-functionalized fragments and proteins of interest. Sets of proteins are accepted and organized in coherent subsets to maximize the chance of obtaining a good model
+
+---
 
 This project was led by [Georg Winter](https://www.winter-lab.com/)'s group at [CeMM](https://cemm.at)
 
 Cite: [Offensperger et al., Science (2024)](https://doi.org/10.1126/science.adk5864) 
+
+---
 
 Below, you will find links to the other repositories associated with the various components of the project:
 
