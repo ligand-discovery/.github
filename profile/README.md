@@ -72,41 +72,41 @@ Model Training
 
 **No**. To change selected protein, there is **no** need to select whole existing term or delete or type new. Just place the mouse cursor in the search box and **just start to type new protein!**; old text is automatically cleared
 
-- I search for a gene (example, **DDB1**) but did not find it in Protein search box
+`I search for a gene (example, DDB1) but did not find it in Protein search box`
 
-      Names like **caspase** or **ddb1** appear many times in description of proteins, therefore search engine is not able to pick the correct one. Type specific input such as **DNA damage-binding protein 1** or **DDB1 DNA dama..** to find **DDB1**. Search with **UniProt Accession** (Q16531 for DDB1) **is better!**
+Names like **caspase** or **ddb1** appear many times in description of proteins, therefore search engine is not able to pick the correct one. Type specific input such as **DNA damage-binding protein 1** or **DDB1 DNA dama..** to find **DDB1**. Search with **UniProt Accession** (Q16531 for DDB1) **is better!**
 
-- I am interested in a **specific Fragment** but it is not displayed in the Gen1 search box
+`I am interested in a specific Fragment (C008) but it is not displayed in the Gen1 search box`
 
-      Gen1 Fragment selection menu is dynamically updated based on the selected Protein **and** threshold filters applied. If you are interested in a specific Gen1 Fragment, then clear all filters, i.e., select **'no filter'** option for _P_ values, adjusted _P_ alues and filterSet  (fS) **and/or** select a promiscuous Protein such as **TOMM22**
+Gen1 Fragment selection menu is dynamically updated based on the selected Protein **and** threshold filters applied. If you are interested in a specific Gen1 Fragment, then clear all filters, i.e., select **'no filter'** option for _P_ values, adjusted _P_ alues and filterSet  (fS) **and/or** select a promiscuous Protein such as **TOMM22**
 
-- Changing the threhold for _P_ values, adjusted _P_ values and filterSet (fS) does not **change the plot**
+`Changing the threhold for _P_ values, adjusted _P_ values and filterSet (fS) does not change the plot`
 
 That is correct. **Plots are static**. They are not dynamically updated based on threshold values. Changing the threhold for _P_ values, adjusted _P_ values and filterSet (fS) **only updates the Table**. Pre- set (i.e. default) filterSet (**fS** or **fS2**) were used to create plots
 
-- What was the criteria to label a Protien or Fragment as **Promiscuous** ?
+`What was the criteria to label a Protien or Fragment as Promiscuous ?`
 
 **10%** hit/regulated ratio for Proteins and **5%** for Fragments")
 
-- Can i **change the order of Gen1 Fragments** displayed in the search box menu?
+`Can i change the order of Gen1 Fragments displayed in the search box menu?`
 
 Order of Fragments displayed in search menu matches the **original** order in the Table. Re-adjusting the table, for example: sort the table based on Foldchange (Fc) values or number of Protein/Fragment hits **will not change the order** of the Fragments in the search menu
 
 Changing the threhold for _P_ values, adjusted _P_ values and filterSet (fS) updates the **original** Table, consequently results in a change in the order of Gen1 Fragment displayed in search menu
 
-- How can i explore **second generation (Gen2) Fragment** data?
+`How can i explore second generation (Gen2) Fragment data?`
 
 Gen2 Fragment data is available for only a small subset of Gen1 Fragments. **Gen2 data is automatically displayed** if the selected Gen1 Fragment has elaborates. For example, select **C027** in Gen1 search box
 
 2. Explore Protein-sets app
 
-- How to resolve error message 'More than one input type has been provided!'?
+`How to resolve error message 'More than one input type has been provided!'?`
 
 Please only choose one of the options, i.e. input proteins manually, or select a pre-screened Ligand, or upload a file
 
 4. Fragment Predictor web app
 
-- Explain Promiscuity and Ontology Prediction models
+`Explain Promiscuity and Ontology Prediction models`
 
 1. We built two types of Promiscuity models. Three Type 1 (Global) and nine Type 2 (Specific) models 
 2. We built 10 Ontology models. 
