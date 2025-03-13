@@ -80,13 +80,13 @@ Names like **caspase** or **ddb1** appear many times in description of proteins,
 
 Gen1 Fragment selection menu is dynamically updated based on the selected Protein **and** threshold filters applied. If you are interested in a specific Gen1 Fragment, then clear all filters, i.e., select **'no filter'** option for _P_ values, adjusted _P_ alues and filterSet  (fS) **and/or** select a promiscuous Protein such as **TOMM22**
 
-`Changing the threhold for _P_ values, adjusted _P_ values and filterSet (fS) does not change the plot`
+`Changing the threhold for P values, adjusted P values and filterSet (fS) does not change the plot`
 
 That is correct. **Plots are static**. They are not dynamically updated based on threshold values. Changing the threhold for _P_ values, adjusted _P_ values and filterSet (fS) **only updates the Table**. Pre- set (i.e. default) filterSet (**fS** or **fS2**) were used to create plots
 
 `What was the criteria to label a Protien or Fragment as Promiscuous ?`
 
-**10%** hit/regulated ratio for Proteins and **5%** for Fragments")
+**10%** hit/regulated ratio for Proteins and **5%** for Fragments
 
 `Can i change the order of Gen1 Fragments displayed in the search box menu?`
 
